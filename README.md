@@ -9,7 +9,7 @@
 
 ## Files
 
-[Starter Notebook](Code/crypto_sentiment.ipynb)
+[Notebook](Code/crypto_sentiment.ipynb)
 
 
 ----
